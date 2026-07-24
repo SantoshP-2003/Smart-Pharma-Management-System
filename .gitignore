@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Smart Pharma specific
+*.db
+*.sqlite
+smart_pharma/database/dev.db
